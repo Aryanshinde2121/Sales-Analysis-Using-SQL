@@ -1,7 +1,9 @@
 # Sales-Analysis-Using-SQL
 SQL (Using csv)
 
+
 Title : Sales Analysis Using SQL
+
 Introduction
 This report provides an analysis of the SQL file provided. The file contains SQL commands for database operations and queries. It also mentions that the queries are designed to be executed using data from a CSV file in MySQL.
 Database Operations
